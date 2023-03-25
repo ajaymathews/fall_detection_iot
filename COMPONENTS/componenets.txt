@@ -1,0 +1,5 @@
+1.raspberry pi
+2.heart beat sensor -     // max30100 - sensor for both oxygen and heart beat
+3.oxygen sensor -spo2
+4.accelometer - adxl345
+5.temp sensor
